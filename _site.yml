@@ -1,26 +1,22 @@
 name: "Yay internet!"
 output_dir: "."
 navbar:
-  title: "NavBar Title"
+  title: "Hailey Hansen"
   right:
     - text: "Home"
       href: index.html
-    - text: 'Menu' ## setting up a drop down menu
+    - text: 'Projects' ## setting up a drop down menu
       menu:
-        - text: 'Whatever Menu 1'
+        - text: 'Tornado Scrollytelling'
           href: pages/example.html
-        - text: 'Whatever Menu 2'
+        - text: 'Tornado Shiny App'
           href: whatevermenu2.html
         - text: 'Whatever Menu 3'
           href: whatevermenu3.html
-    - text: 'Unicorns'
-      href: unicorns.html
-    - text: 'Downloads'
-      href: downloads.html
     - text: "About"
       href: about.html
     - icon: fa-github fa-lg
-      href: http://github.com/jmclip
+      href: http://github.com/hailhan
     
 sidebar:
   - getting-started
