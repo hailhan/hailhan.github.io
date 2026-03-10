@@ -1,10 +1,15 @@
 ---
-title: "Look at this!"
+title: "Welcome!"
 ---
 
-### I have a webpage!
+## My name is Hailey, and I am a graduate student of Computational Social Science.
 
-And I can put all kinds of stuff on it!
+### This website showcases several of my data visualization projects.
 
-#### WOOHOO!
+- This ["scrollytelling" document](tornado_scrolly.html) walks through trends in tornado exposure decade-by-decade, serving as an accessible supplement to my thesis project.
 
+- This [Shiny app](shiny_app.html) interactively explores annual trends in tornado exposure, giving the user more control over which years and counties to focus on than the scrollytelling document does.
+
+- This [Tableau dashboard](tableau.html) is just for fun, exploring the history of different variations of spelling of my name in the US.
+
+### I hope you enjoy interacting with these visualizations as much as I enjoyed making them!

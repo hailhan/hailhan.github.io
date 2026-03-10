@@ -1,18 +1,18 @@
-name: "Yay internet!"
+name: "Personal Website"
 output_dir: "."
 navbar:
   title: "Hailey Hansen"
   right:
     - text: "Home"
       href: index.html
-    - text: 'Projects' ## setting up a drop down menu
+    - text: 'Data Visualization Projects' ## setting up a drop down menu
       menu:
-        - text: 'Tornado Scrollytelling'
-          href: pages/example.html
-        - text: 'Tornado Shiny App'
-          href: whatevermenu2.html
-        - text: 'Whatever Menu 3'
-          href: whatevermenu3.html
+        - text: 'Scrollytelling'
+          href: tornado_scrolly.html
+        - text: 'Shiny'
+          href: shiny_app.html
+        - text: 'Tableau'
+          href: tableau.html
     - text: "About"
       href: about.html
     - icon: fa-github fa-lg
@@ -22,4 +22,4 @@ sidebar:
   - getting-started
 output:
   html_document:
-    theme: spacelab
+    theme: cosmo

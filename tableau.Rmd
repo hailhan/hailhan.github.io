@@ -1,0 +1,10 @@
+---
+title: "Ha(i/y)ley Dashboard"
+---
+
+<iframe
+src="https://public.tableau.com/views/HaiyleyDashboard/HaiyleyDash?:showVizHome=no&:embed=true"
+width="100%"
+height="900"
+style="border:none;">
+</iframe>
