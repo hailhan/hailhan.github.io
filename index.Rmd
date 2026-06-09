@@ -12,4 +12,6 @@ title: "Welcome!"
 
 - This [Tableau dashboard](tableau.html) is just for fun, exploring the history of different variations of spelling of my name in the US.
 
+- This [R package](https://github.com/hailhan/tornadoexposure)
+
 ### I hope you enjoy interacting with these visualizations as much as I enjoyed making them!
